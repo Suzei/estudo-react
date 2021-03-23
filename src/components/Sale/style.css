@@ -1,0 +1,28 @@
+.product-section {
+    height: 85vh;
+    background-color: rgb(190, 136, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.product-desc {
+    width: 32%;
+    margin-left: 20px;
+    align-self: center;
+}
+
+.product-img img {
+    height: 550px;
+}
+
+.product-img {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.product-desc button {
+    top: 18px
+}

@@ -32,7 +32,7 @@ function Header() {
                 <div className="title" data-aos="fade-left">
                     <h1>REACT PURPLE</h1>
                     <p>Expanda sua experiência react com todos os benefícios de ter uma plataforma 100% feita para desenvolvimento</p>
-                    <button>Download</button>
+                    <button>Start</button>
                 </div>
             </section>
 
