@@ -1,0 +1,87 @@
+.feature-div {
+    display: grid;
+    height: 130vh;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(136, 77, 190);
+   
+}
+
+.feature-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+   grid-template-areas: 'feature-1 feature-2 feature-3'
+                        'feature-4 feature-5 feature-6 ';
+    justify-content: center;
+    align-self: center;
+    gap: 120px;
+    margin-top: 180px;
+}
+
+.features-1 {
+    
+    grid-area: feature-1;
+}
+
+.features-2 {
+    grid-area: feature-2;
+}
+
+.features-3 {
+    
+    grid-area: feature-3;
+}
+
+.features-4 {
+    
+    grid-area: feature-4
+}
+
+.features-5 {
+    
+    grid-area: feature-5
+}
+
+.features-6 {
+    
+    grid-area: feature-6
+}
+
+.feature-title {
+    padding-top: 80px;
+}
+
+.feature-title h3 {
+    font-size: 50px;
+    color: white;
+    text-shadow: black 1px 5px;
+    
+}
+
+.default-visual {
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    flex-wrap: wrap;
+    
+}
+
+.default-visual img {
+    border-radius: 50%;
+    border: 0.1px black solid;
+    padding: 10px;
+    
+}
+
+.default-visual p {
+    width: 50%;
+    color: white;
+    
+}
+
+
+

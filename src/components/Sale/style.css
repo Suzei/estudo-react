@@ -11,6 +11,7 @@
     width: 32%;
     margin-left: 20px;
     align-self: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .product-img img {
@@ -25,4 +26,5 @@
 
 .product-desc button {
     top: 18px
+    
 }
