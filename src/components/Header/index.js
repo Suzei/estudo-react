@@ -2,6 +2,7 @@ import React from 'react';
 import './style.css'
 import 'aos/dist/aos.css'
 import Aos from 'aos';
+import decor from './img/img-header.svg'
 
 
 Aos.init( {
@@ -25,6 +26,7 @@ function Header() {
             </nav>
 
             <section className="title-hero">
+                <img src={decor} className="decor"/>
                 <section className="img-container">
                    <div className="img"></div>
                 </section>
