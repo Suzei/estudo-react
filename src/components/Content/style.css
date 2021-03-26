@@ -1,9 +1,10 @@
 .container-content {
-    height: 32vh; 
-    background-color: #a327dd;
+    height: 20em; 
+    background-color: #7156b6;
     display: flex;
     justify-content: center;
     align-items: center;
+    box-shadow: rgb(103, 221, 68) 1px -18px;
 
 }
 

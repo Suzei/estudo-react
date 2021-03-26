@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="684" height="746" viewBox="0 0 684 746">
+  <g id="Componente_1_1" data-name="Componente 1 – 1" transform="translate(5)">
+    <g id="Elipse_1" data-name="Elipse 1" transform="translate(173)" fill="none" stroke="#34df4b" stroke-width="10">
+      <circle cx="253" cy="253" r="253" stroke="none"/>
+      <circle cx="253" cy="253" r="248" fill="none"/>
+    </g>
+    <circle id="Elipse_2" data-name="Elipse 2" cx="261" cy="261" r="261" transform="translate(0 219)" fill="none" stroke="#34df4b" stroke-width="10"/>
+  </g>
+</svg>

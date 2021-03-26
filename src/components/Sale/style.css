@@ -1,21 +1,38 @@
 .product-section {
-    height: 85vh;
-    background-color: rgb(190, 136, 221);
+    height: 85em;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #a45ddf;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23000000' fill-opacity='0.9' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
 
 }
 
 .product-desc {
-    width: 32%;
+    width: 40em;
     margin-left: 20px;
     align-self: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(108, 42, 170);
+    box-shadow: rgb(103, 221, 68) -25px -30px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    color: white;
+    border-radius: 20px;
+}
+
+.product-desc h2 {
+    text-shadow: black 2px -2px;
+    font-family: Start;
 }
 
 .product-img img {
     height: 550px;
+    transform: translateX(50px);
+}
+
+.product-desc p {
+    width: 80%;
 }
 
 .product-img {
@@ -25,6 +42,6 @@
 }
 
 .product-desc button {
-    top: 18px
+    top: 5px
     
 }

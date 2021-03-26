@@ -8,16 +8,14 @@ import negociação from './img/negociação.svg';
 import estrategia from  './img/estratégia.svg';
 import equipe from './img/equipe.svg';
 import competição from './img/competição.svg';
-import att from './img/att.svg'
 
 function Features(){
     return(
 
         <section className="feature-div">
-           
             <div className="feature-title">
             <h3>Best Features</h3>
-            <p>Most advantage plans and that other stuff you hear around</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud velit esse cillum dolore eu fugiat nulla pariatur. </p>
             </div>
         <div className="feature-grid">
             <div className="features-1 default-visual" data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-out">
